@@ -1,5 +1,3 @@
-# Welcome!
- 
 ## Olá, Bem vindos 👏. Sou Thiago, desenvolvedor Front-End.
 
 💪 Esforçado o suficiente para correr atrás do meus objetivos e buscar resolver os problemas, e 😀 humilde para pesquisar e pedir ajudar se não conseguir.
