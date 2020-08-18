@@ -6,6 +6,5 @@
  
 ## Contato  
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dev-ThiagoLaian)](https://github.com/dev-ThiagoLaian)
-[![Rocketseat Badge](https://img.shields.io/badge/-Rocketseat-000?style=flat-square&logo=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/thiago-07664)](https://app.rocketseat.com.br/me/thiago-07664)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-laian-144ab4182/)](https://www.linkedin.com/in/thiago-laian-144ab4182/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.laian@gmail)](mailto:thiago.laian@gmail)
